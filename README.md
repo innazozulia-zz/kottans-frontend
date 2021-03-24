@@ -50,3 +50,16 @@ I have improved my knowledge about Grid layout.
 I have improved my knowledge about CSS properties.
 I'm going to implement all my new knowledge in practice in future.
 
+## Responsive Web Design
+<img width="1123" alt="FlexBox Froggy  png" src="https://user-images.githubusercontent.com/60383374/112352565-8ad2f000-8cd3-11eb-95a6-250563f9eca1.png">
+<img width="819" alt="responsive web design" src="https://user-images.githubusercontent.com/60383374/112352584-8e667700-8cd3-11eb-9f3b-71b8b51bf4ce.png">
+
+I have finished responsive Web Design lesson and I can make some conclusion.
+Now I kwow how use grid layouts for responsive design. 
+I also learned the four common responsive design patterns.
+I deepened my knowledge  how use flex box layouts for responsive design.
+I also learned about the intricacies of working with images, tables, typography.
+This model was very useful to me.
+  
+
+
