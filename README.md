@@ -80,3 +80,4 @@ freeCodeCump gave me the ability to solve aglorhythmic problems.
 The Hexlet course gave me more understanding at the core of programming.
 I learned more about array functions.
 Aslo I have started better understent ... and ES6's features.
+I confidently say that I'm going to implement all my new knowledges in practice in future!
