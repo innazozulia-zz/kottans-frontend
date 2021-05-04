@@ -61,5 +61,22 @@ I deepened my knowledge  how use flex box layouts for responsive design.
 I also learned about the intricacies of working with images, tables, typography.
 This model was very useful to me.
   
+## JavaScript Basics
 
+<img width="823" alt="JS" src="https://user-images.githubusercontent.com/60383374/116968341-f76ee080-acbc-11eb-9228-dc6eab5cb120.png">
+<img width="970" alt="js1" src="https://user-images.githubusercontent.com/60383374/116968359-fc339480-acbc-11eb-906e-edfe2474ec0e.png">
+<img width="853" alt="js2" src="https://user-images.githubusercontent.com/60383374/116968365-fdfd5800-acbc-11eb-8f0a-b7125cef800d.png">
+<img width="841" alt="js3-4" src="https://user-images.githubusercontent.com/60383374/116968368-ffc71b80-acbc-11eb-8ba3-18f65f5f6049.png">
+<img width="725" alt="js-5" src="https://user-images.githubusercontent.com/60383374/116968372-0190df00-acbd-11eb-9447-f64753b567db.png">
+<img width="1037" alt="js6" src="https://user-images.githubusercontent.com/60383374/116968373-02c20c00-acbd-11eb-962a-474d22dbcd27.png">
+<img width="911" alt="Screenshot_9" src="https://user-images.githubusercontent.com/60383374/116968377-048bcf80-acbd-11eb-9a24-2dcffd58dd45.png">
 
+I have completed JavaScript basics. I improved my js skills step by step by doing the exercises!
+There were a lot of interesting and difficult tasks.
+It took a long time.
+I was surprised by the capabilities of ES6.
+I have repeated all my knowledge of js.
+freeCodeCump gave me the ability to solve aglorhythmic problems.
+The Hexlet course gave me more understanding at the core of programming.
+I learned more about array functions.
+Aslo I have started better understent ... and ES6's features.
