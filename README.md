@@ -81,3 +81,15 @@ The Hexlet course gave me more understanding at the core of programming.
 I learned more about array functions.
 Aslo I have started better understent ... and ES6's features.
 I confidently say that I'm going to implement all my new knowledges in practice in future!
+
+## DOM practice
+
+<img width="833" alt="DOM" src="https://user-images.githubusercontent.com/60383374/117974462-40b2d600-b336-11eb-8eb4-1537e95ec13f.png">
+<img width="833" alt="DOM freeCode" src="https://user-images.githubusercontent.com/60383374/117974493-490b1100-b336-11eb-9fa0-d48d47dc5bf8.png">
+<img width="776" alt="DOM freeCode2" src="https://user-images.githubusercontent.com/60383374/117974502-4b6d6b00-b336-11eb-96dc-0279099c405d.png">
+
+I studied the structure of the DOM.I learned how to change the content of HTML elements,
+how to change the style (CSS) of HTML elements,
+how to react to HTML DOM events and
+how to add and remove HTML elementsThis is a very useful skill in frontend work, because you can easily take and change the desired element with the help of JS. To modify elements or inspect the DOM tree, we can use the developer tools in the browser.
+
